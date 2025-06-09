@@ -7,7 +7,7 @@
 패키지의 소스코드와 실행결과 동영상 
 (mp4 을 깃허브에 업로드 완료 후 강사에게 확인 받을 것)
 
-![image](https://github.com/user-attachments/assets/af775c94-7725-4415-a71d-c81a81ff6dde)
+![image](https://github.com/user-attachments/assets/5c7b5495-4093-40bd-92ce-33e0e2d06440)
 
 ***
 
