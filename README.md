@@ -15,7 +15,7 @@
 
 ***
 
-colcon build --symlink-install
+colcon build --packages-select lidarsim
 
 source install/setup.bash
 
@@ -29,7 +29,7 @@ source install/setup.bash
 ros2 run lidarsim video_publisher
 
 창2
-ros2 run lidarsim motor_cmd_subscriber
+ros2 run lidarsim sub
 
 ***
 
