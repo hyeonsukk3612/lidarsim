@@ -26,9 +26,11 @@ source install/setup.bash
 ***
 
 창1
+
 ros2 run lidarsim video_publisher
 
 창2
+
 ros2 run lidarsim sub
 
 ***
