@@ -1,13 +1,14 @@
 ***
 
-장애물 회피알고리즘을 작성하고 lidarsave 패키지에서 저장한 동영상 파일을 이용하여 
-시뮬레이션을 수행하는 lidarsim 패키지를 작성 스캔영상에서 에러 계산 영상처리 결과를 동영상으로 저장 (mp4)
-에러를 이용하여 속도명령을 전송 다이내믹셀 구동
-참고유튜브 https :://www youtube com/watch?v=HvWfm 4 Xtzbs
-패키지의 소스코드와 실행결과 동영상 
-(mp4 을 깃허브에 업로드 완료 후 강사에게 확인 받을 것)
+WSL 2 에서 라이다 측정데이터를 이용하여 스캔영상을 그려주는 패
+키지 lidarplot 를 완성하시오
+/scan 토픽 구독 각도 거리 로 환산 스캔 영상 그리기 순서로
+처리할 것
+스캔 영상 그리기는 opencv 의 회전변환 또는 삼각함수를 이용
+스캔 영상을 모니터에 출력하고 동시에 동영상 (mp 4 으로 저장할 것
+Jetson nano 보드에서 sllidar_node 를 실행하고 lidarplot 패키지는
+WSL 2 에서 작성하고 실행할것
 
-![image](https://github.com/user-attachments/assets/5c7b5495-4093-40bd-92ce-33e0e2d06440)
 
 ***
 
